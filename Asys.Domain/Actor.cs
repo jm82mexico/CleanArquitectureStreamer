@@ -1,5 +1,7 @@
 
 
+using Asys.Domain.Common;
+
 namespace Asys.Domain
 {
     public class Actor : BaseDomainModel
